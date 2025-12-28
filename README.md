@@ -21,11 +21,7 @@ I am an Industrial Engineering student fascinated by the technical and analytica
 
 ### 📊 Security Progress & Stats
 
-<p align="center">
-  <a href="https://tryhackme.com/p/mkd1r">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/mkd1r.png" alt="Your Image Badge" />
-  </a>
-</p>
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mkd1r.png)](https://tryhackme.com/p/mkd1r)
 
 
 ---
