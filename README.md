@@ -23,7 +23,7 @@ I am an Industrial Engineering student fascinated by the technical and analytica
 
 <p align="center">
   <a href="https://tryhackme.com/p/mkd1r">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/mkd1r.png?userBadge=true" alt="TryHackMe Badge">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/mkd1r.png" alt="Your Image Badge" />
   </a>
 </p>
 
