@@ -27,8 +27,9 @@ I am an Industrial Engineering student fascinated by the technical and analytica
 ---
 
 ### 📫 Let's Connect
-- [LinkedIn](www.linkedin.com/in/jonas-jakob-benjamin-ott)
-- I am always happy to exchange ideas on Quantitative Finance, Cybersecurity, or interesting engineering challenges.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonas-jakob-benjamin-ott)
+
+I am always happy to exchange ideas on Quantitative Finance, Cybersecurity, or interesting engineering challenges.
 
 ---
 *"Focused on understanding complex systems to help build a more secure and efficient digital environment."*
